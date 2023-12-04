@@ -39,19 +39,29 @@ The user will be asked to choose between professor and student.
 
 Proffessor:
 The user will be asked between adding a new professor or not (if not the program ends)
-If yes:
-The user will be asked some questions to make up it's profile
+If yes, the user will be asked some questions to make up it's profile
+
 Name (free answer)
+
 Language (from Spanish, English & French)
+
 Subjects (free answer and as many as wanted)
+
 Level of expertise (from low, medium, high)
+
 Contact info (number,mail)
+
 Afterwards, the professor will be added to the dataset and the dataset will be updated to include it.
 
+
 Student:
+
 The student will be asked some questions for the search engine which are:
+
 Language (from Spanish, English, French)
+
 Subjects (free answer, only 1)
+
 Level of expertise (from Low, medium, high)
 
 After the student has inputed the desired information, it will be provided with the top 3 professors that match it's requirements, with their corresponding information details, where the student will be able to contact them
