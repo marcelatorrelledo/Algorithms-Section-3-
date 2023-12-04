@@ -34,4 +34,23 @@ Once inside the app (as a professor):
 After creating a compelling profile and providing details such as your name, career background, academic level willing to teach, and areas of expertise, Explore the option to upgrade to premium, unlocking additional features and increasing visibility to potential students. Make contact with students and initiate classes to impart your knowledge and expertise.
 
 # This is how the app interacts with the users:
+Javi aqui va lo tuyo pero solo lo que te he mandado
+
+
+# Credits: 
+Our app is a labor of dedication from our entire team, who tirelessly strive each day to craft practical and effective solutions to enhance the student learning experience. It's important to note that the app is a work in progress, with the current version serving as the blueprint for its potential. Your participation is invaluable, and we extend our heartfelt gratitude for being part of this journey. Together, we're shaping the future of education. Thank you for your continued support!
+
+# Meet the team: 
+Our team is driven by a shared passion for leveraging technology to enhance education. With diverse skills in data analytics and education, we are united by a commitment to improving the academic journey for our peers.
+- Marcela Torrelledó
+- Juan Jacobo Rico
+- Lucía Muñoz
+- Celia Sanmartín
+- Jesús Lopez Cubas
+- Javier López Usero
+
+
+
+
+
 
