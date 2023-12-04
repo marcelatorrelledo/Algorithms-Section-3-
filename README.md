@@ -34,8 +34,27 @@ Once inside the app (as a professor):
 After creating a compelling profile and providing details such as your name, career background, academic level willing to teach, and areas of expertise, Explore the option to upgrade to premium, unlocking additional features and increasing visibility to potential students. Make contact with students and initiate classes to impart your knowledge and expertise.
 
 # This is how the app interacts with the users:
-Javi aqui va lo tuyo pero solo lo que te he mandado
 
+The user will be asked to choose between professor and student.
+
+Proffessor:
+The user will be asked between adding a new professor or not (if not the program ends)
+If yes:
+The user will be asked some questions to make up it's profile
+Name (free answer)
+Language (from Spanish, English & French)
+Subjects (free answer and as many as wanted)
+Level of expertise (from low, medium, high)
+Contact info (number,mail)
+Afterwards, the professor will be added to the dataset and the dataset will be updated to include it.
+
+Student:
+The student will be asked some questions for the search engine which are:
+Language (from Spanish, English, French)
+Subjects (free answer, only 1)
+Level of expertise (from Low, medium, high)
+
+After the student has inputed the desired information, it will be provided with the top 3 professors that match it's requirements, with their corresponding information details, where the student will be able to contact them
 
 # Credits: 
 Our app is a labor of dedication from our entire team, who tirelessly strive each day to craft practical and effective solutions to enhance the student learning experience. It's important to note that the app is a work in progress, with the current version serving as the blueprint for its potential. Your participation is invaluable, and we extend our heartfelt gratitude for being part of this journey. Together, we're shaping the future of education. Thank you for your continued support!
